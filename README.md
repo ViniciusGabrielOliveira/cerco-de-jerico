@@ -2,7 +2,7 @@
 
 Apresentação responsiva com dez slides, narração sincronizada e animações por letra.
 
-Abra `index.html` no navegador. Áudio, logos e fontes estão incorporados; não há instalação ou build. Quando o navegador bloquear a reprodução automática com som, use **Iniciar apresentação**.
+Abra `index.html` no navegador. Áudio, logos e fontes estão incorporados; não há instalação ou build. A apresentação inicia automaticamente e repete em loop. Se o navegador bloquear o som, os slides avançam sem áudio; toque no slide ou no botão de áudio para ativar a narração.
 
 ## Publicação no GitHub Pages
 
